@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-#测试扫雷
 from Tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
